@@ -113,13 +113,13 @@ button{
 .list__checkbox {
   margin: 0 10px;
 }
-.list__item > .list__label {
+.list__label {
   padding-left: 10px;
   box-sizing: border-box;
   font-size: 18px;
   width: 226px;
 }
-.list__item >    .list__input {
+.list__input {
   width: 226px;
 }
 .list__delete-img {
@@ -138,7 +138,7 @@ button{
 }
 
 /* Edit Task */
-.list__item .list__input {
+.list__input {
   display: none;
 }
 .list__item_edit .list__input {
